@@ -1,0 +1,114 @@
+name: "HASIM ABDUL HALIM MOLLAH"
+contact: "hasim.unique@gmail.com | Cell - +447467718491 | LinkedIn: https://www.linkedin.com/in/hasim-abdul-halim-mollah-a9b54521/ | Reading, UK"
+
+professional_summary: |
+ Seasoned Software Engineering Leader with over 17 years of experience in building high-performance, scalable, and resilient applications. Expertise
+ in Java 17+, Reactive Programming, and event-driven architectures, with a strong focus on creating robust asynchronous systems. Proven ability to
+ provide ownership and leadership in platform development while balancing short- and long-term objectives. Experienced in shaping platform
+ features, mentoring teams, and enhancing software quality standards. Deep technical proficiency in Spring Boot, and Microservices, with
+ experienced with containerized and cloud-native technologies on AWS (S3, IAM, EC2), Kubernetes, and Helm. Pioneered event-driven architectures
+ leveraging Kafka and Spark, optimizing for performance and scalability. Proven success in driving operational excellence through robust CI/CD
+ pipelines (Jenkins, GitHub Actions, Argo CD) and implementing industry-best security practices (IAM, TLS, OIDC, OAuth2, OWASP). Led cross
+ functional teams in the successful development and delivery of cutting-edge solutions for real-time data processing and high-availability systems,
+ driving innovation and exceeding project goals. Skilled in DevOps practices, infrastructure automation, and agile methodologies, ensuring seamless
+ delivery of business-critical applications while championing best practices in software engineering. Expertise in ensuring platforms are built with
+ quality, scale, and resiliency to meet future requirements. Consistently resolve production issues by collaborating with diverse teams, promote
+ operational excellence, and build strong working relationship. Advocate for clean code practices, including SOLID, DRY, KISS principles and high
+ cohesion/low coupling, to improve code maintainability and reduce technical debt
+ such as genAI, Python
+
+keystrengths:
+  - Spearheaded the development of scalable, data intensive production-grade data processing applications using Spark.
+  - Improved system performance and reduced data processing times by over 50% through architectural optimization.
+  - Successfully managed large-scale distributed teams and third-party vendors, achieving 100% project delivery success.
+  - Championed Agile practices (scrum, kanban), enabling faster delivery cycles and fostering a collaborative engineering culture.Mentored junior engineers.
+  - Guided with constructive feedback to team members on best practices for data processing and performance optimization.
+  - Provided consulting services to Tier-1 bank, delivering high-impact authentication solutions for open banking platforms.
+  - Proven ability to optimize performance, implement CI/CD pipelines, and adhere to security best practices (IAM, OIDC, OAuth2).
+  - Translate complex technical concepts into actionable plans that align with business objectives, guiding project prioritization and resource allocation to meet critical deadlines.
+
+company_data:
+  - designation: Staff Software Engineer
+    company: Collibra UK Ltd
+    start_end:  Oct 2021 - Dec2024
+    skills:
+      - Core Java, J2EE , Spring MVC, Springboot, SpringData, Spring Security,Reactive Programming, Multithreading, Hibernate, JPA,
+      - WebService(Rest), UML, JMS, Apache Pulsar, GraphQL, TDD, OWASP, Spring Security, User Authentication, Postgres, Neo4j, Modulo
+      - Monolith, Design Pattern, Data Modeling, Data Catalog, Data Governance, Data ingestion, Application Integration, Performance
+      - Improvement, Gatling, JMeter, Java Flight Recorder, Java Mission Control, Grafana, Datadog, AppDynamics, OpenTelemetry, Maven,
+      - Gradle, GIT, Agile, JIRA, Confluence, Jenkins, Github Action, Swagger, OpenApi Specification, LINUX, Infrastructure as Code, Continuous
+      - Integration and Continuous Delivery, Terraform, AWS EC2, AWS S3, IAM, Kubernetes, Docker, Helm, Argo CD, ReactJs, UML, SQL, JPQL,
+      - HQL, Cypher, Junit, Mockito, RestAssured, Shell Script, JSON, JAX-RS
+    responsibilities:
+      - Led a distributed team in designing and implementing data processing applications, delivering highly scalable and production grade solutions
+      - Spearheaded performance optimization of data governance applications, achieving a 5x improvement with bulk operations, multithreading, concurrency and high-throughput design.
+      - Advised clients on application usage best practices, improving performance and scalability.
+      - Mentored team members, setting goals and improving development workflows.
+      - Delivered a 10x performance improvement by leading the migration of a legacy application from Postgres to Neo4j, utilizing graph databases for efficient data governance.
+      - Automated testing of 40,000+ GraphQL queries, reducing manual effort and ensuring high-quality releases.
+      - Revitalized solutions to simulate large-scale customer data loads, enabling the identification and resolution of performance bottlenecks during Elasticsearch reindexing
+      - Enhanced application performance by optimizing SQL queries and enabling robust backups using AWS S3.
+      - Engineered a seamless deployment pipeline for applications on AWS, leveraging Kubernetes and Helm ensuring consistent integration via CI/CD pipelines using Jenkins.
+  - designation:  Manager Technology
+    company:  Publicis Sapient
+    start_end:  Dec 2015 - Oct2021
+    skills:
+      - Core Java, J2EE , Struts, Spring MVC, Springboot, SpringData, Spring Security,Reactive Programming, Multithreading, Hibernate, JPA
+      - Mybatis, WebService(Rest, SOAP), UML, UltraESB, JMS, Kafka, Spark, Circuit Breaker Hystrix, Reilience4j, GraphQL, TDD, BDD, Server-Sent Events, IAM Roles, OAuth2, OIDC, Forgerock Access Management, OWASP, Spring Security, User Authentication, Oracle, DB2, MySQL
+      - Cassandra, Coherence Cache, Redis Cache, Oracle CDC, Microservice Architecture, SOA Architecture, Event Driven Architecture
+      - Distributed Architecture, CQRS, Design Pattern, Data Modeling, Application Integration, Performance Improvement, JMeter, JProfiler
+      - Yourkit, JVisualVM, Splunk, AppDynamics, Maven, Gradle, Putty, WinSCP, GIT,Agile, Kanban, JIRA, Confluence, Jenkins, Swagger, OpenApi
+      - Specification, Unix, Infrastructure as Code, Continuous Integration and Continuous Delivery, Kubernetes, Docker, Helm, IBM Cloud
+      - private, IBM Bluemix Server, Tomcat, Liberty Application Server, JavaScript, HTML , jQuery, Angular js, Ajax, Websocket, SQL, JPQL, HQL
+      - Junit, Mockito, RestAssured, Cucumber, Shell Script, XML, JSON, Middleware
+    responsibilities:
+      - Modernized a monolithic open banking solution by transitioning to microservices architecture
+      - Directed a team of engineers and collaborated with vendors to build scalable microservices for financial platforms.
+      - Designed and integrated OIDC security using Forgerock IAM for card-based, app based, sms otp authentication and Swagger based API integration by a distributed system architecture.
+      - Led the performance optimization of banking applications, achieving a throughput increase from 80 to 431 transactions per second (TPS) through the strategic implementation of multithreading, connection pooling, and circuit breaker patterns.
+      - Authored event-driven systems with Kafka and Spark Streaming
+      - Defined technical standards and conducted regular training to align team practices with organizational objectives.
+      - Reduced data processing time from 4 hours to 20 minutes for loading 20M+ entries via optimized SpringBatch processes.
+      - Built centralized monitoring platforms using Server-Sent Events for real-time application health tracking.
+      - Delivered enterprise-scale customer-facing applications using Agile practices, including Kanban and Scrum.
+  - designation: Consultant
+    company: Deloitte Consulting India Pvt Ltd
+    start_end:  July 2013 - Dec 2015
+    skills:
+      - Core Java, J2EE , Struts, EJB, TDD, Oracle, Monolithic Architecture, Maven, Gradle, Putty, WinSCP, CVS, Agile, JIRA, Confluence, Jenkins
+      - Unix, JBoss Server, JavaScript, HTML , jQuery, Ajax, SQL, JPQL, HQL, Junit, Mockito
+    responsibilities:
+      - Conducted Java and domain knowledge and project architecture training for 30+ team members to improve project delivery capabilities.Streamlined data processing systems for enterprise clients, ensuring robustness and scalability.
+      - Reduced effort by 50% through the redesign of critical project modules, optimizing team productivity.
+      - Led and played a key role in agile delivery of customer-facing applications.
+      - Enhanced project outcomes by collaborating across cross-functional teams to deliver innovative, scalable solutions
+  - designation: Associate - Projects
+    company: Cognizant Technology Solutions India Pvt Ltd
+    start_end:  Sept 2011 - July 2013
+    skills:
+      - Java, J2EE , Struts, Spring MVC, Multithreading, JPA, Mybatis, WebService (Rest, SOAP), UML, TDD, Oracle, MySQL, MSSQL
+      - Monolithic Architecture, Ant, Maven, Putty, WinSCP, SVN, JIRA, Unix, JBoss Server, Tomcat JavaScript, ExtJS, HTML ,FreeMarker, jQuery
+      - Backbone, Ajax, SQL, JPQL, XML, JSON, JAX-WS
+    responsibilities:
+      - Led the design and development of enterprise-level data-driven loan origination and servicing systems for financial organization .
+      - Improved efficiency by automating static page creation with Backbone.js, saving costs and time.
+  - designation: System Engineer
+    company:  IBM India Pvt Ltd
+    start_end: Dec 2007 - Aug2011
+    skills:
+      - Core Java, J2EE , Struts, JSF, Multithreading, Hibernate, JPA, Mybatis, Web Service (Rest, SOAP), UML, TDD, Oracle, DB2, MySQL
+      - Monolithic Architecture, Ant, Maven, Putty, WinSCP, CVS, SVN, CMVC, Unix, WebSphare Application Server, JBoss Server, Tomcat
+      - JavaScript, HTML, SQL, JPQL, HQL, Junit, Mockito, Shell Script, XML, XPath, JSON
+    responsibilities:
+      - Developed and maintained robust customer-facing applications, ensuring seamless user experiences.
+      - Automated processes for tracking call costs and shift management, improving efficiency for project managers.
+      - Mentored junior developers and transformed reliable customer-facing applications.
+
+certifications:
+  - Cassandra certified developer
+  - SCJP 1.5
+  - SCWCD1.5
+  - L0 Banking and Financial Services in CTS
+  - Certified ScrumMaster
+
+education:  Completed B.Tech in Information Technology (2003- 2007) from Jalpaiguri Government Engineering College.

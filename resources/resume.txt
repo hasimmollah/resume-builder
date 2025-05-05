@@ -1,0 +1,114 @@
+HASIM ABDUL HALIM MOLLAH
++447467718491 | LinkedIn Profile | hasim.unique@gmail.com | Reading, UK
+
+Summary
+
+A highly accomplished and results-oriented Software Engineering Leader with over 17 years of experience in designing, developing, and implementing robust, scalable, and high-performance applications, particularly within the financial services domain. Proven expertise in Credit, Lending, Banking, and Payment Systems, with a deep understanding of modern software development practices, cloud-native technologies, and agile methodologies. Adept at leading cross-functional teams, driving innovation, and delivering complex projects on time and within budget. Passionate about fostering a culture of technical excellence and continuous learning.
+
+Key Strengths
+
+Financial Systems Expertise: Deep understanding of Credit, Lending, Banking, and Payment Systems design and development.
+Technical Leadership: Proven ability to lead technical projects, mentor junior engineers, and drive technical vision.
+Scalable Solutions: Expertise in architecting and developing robust, scalable, and maintainable software systems.
+Cloud Technologies: Strong experience working with Amazon Web Services (AWS) and cloud-native platforms.
+Performance Optimization: Ability to optimize software performance and ensure scalability through efficient algorithms and code optimizations.
+Agile Methodologies: Extensive experience with modern software development practices such as Agile, FDD, and DevSecOps.
+Innovative Solutions: Demonstrated expertise in solving complex technical problems and implementing innovative solutions.
+Communication Skills: Excellent communication skills, with the ability to effectively communicate technical concepts to both technical and non-technical stakeholders.
+Employment Summary
+
+Staff Software Engineer | Collibra UK Ltd | Oct 2021 - Dec 2024
+
+Led a distributed team in designing and implementing data processing applications, delivering highly scalable and production-grade solutions.
+Spearheaded performance optimization of data governance applications, achieving a 5x improvement with bulk operations, multithreading, concurrency and high-throughput design.
+Delivered a 10x performance improvement by leading the migration of a legacy application from Postgres to Neo4j, utilizing graph databases for efficient data governance.
+Automated testing of 40,000+ GraphQL queries, reducing manual effort and ensuring high-quality releases.
+Engineered a seamless deployment pipeline for applications on AWS, leveraging Kubernetes and Helm; ensuring consistent integration via CI/CD pipelines using Jenkins.
+Manager Technology | Publicis Sapient | Dec 2015 - Oct 2021
+
+Spearheaded the modernization of a monolithic open banking solution by architecting and leading its transition to a microservices architecture, ensuring seamless integration with ForgeRock IAM for robust and scalable identity management.
+Led critical performance optimization initiatives for banking applications, achieving a significant throughput increase (from 80 to 431 TPS) through strategic application of multithreading, connection pooling, and circuit breaker patterns.
+Designed and implemented event-driven systems leveraging Kafka and Spark Streaming, ensuring secure data flow and processing.
+Significantly reduced data processing time (from 4 hours to 20 minutes for 20M+ entries) through the optimization of Spring Batch processes.
+Successfully delivered enterprise-scale customer-facing applications using Agile practices (Kanban and Scrum).
+Consultant | Deloitte Consulting India Pvt Ltd | July 2013 – Dec 2015
+
+Conducted Java and domain knowledge and project architecture training for 30+ team members to improve project delivery capabilities.
+Reduced effort by 50% through the redesign of critical project modules, optimizing team productivity.
+Led and played a key role in agile delivery of customer-facing applications.
+Associate - Projects | Cognizant Technology Solutions India Pvt Ltd | Sept 2011 to July 2013
+
+Led the design and development of enterprise-level data-driven loan origination and servicing systems for financial organization.
+Improved efficiency by automating static page creation with Backbone.js, saving costs and time.
+System Engineer | IBM India Pvt Ltd | Dec 2007 – Aug 2011
+
+Developed and maintained robust customer-facing applications, ensuring seamless user experiences.
+Automated processes for tracking call costs and shift management, improving efficiency for project managers.
+Certifications
+
+Cassandra certified developer
+SCJP 1.5
+SCWCD 1.5
+L0 Banking and Financial Services in CTS
+Certified ScrumMaster
+Education
+
+B.Tech in Information Technology (2003 - 2007) | Jalpaiguri Government Engineering Summary
+
+A highly accomplished and influential technology leader with over 17 years of experience in architecting and delivering complex software solutions, now seeking to drive engineering excellence as a Principal Software Engineer at Sainsbury's Tech. Proven ability to empower engineering teams, establish technical vision, and implement best practices within large-scale, multi-channel retail environments. Expertise in a range of backend technologies, including Java, with a strong track record of leading innovation, optimizing system performance, and fostering collaborative, high-performing teams. Eager to contribute to Sainsbury's commitment to technical advancement and customer-centric solutions.
+
+Key Strengths
+
+Technology Leadership & Vision: Proven ability to guide engineering vision, establish technical standards, and drive innovation across teams.
+Backend Expertise (Java Focus): Deep understanding and extensive experience in backend development with Java and related technologies.
+Scalable & High-Performance Systems: Expertise in designing and delivering scalable, robust, and high-performance software solutions.
+Agile & Modern Practices: Champion of modern software development methodologies including Agile, Scrum, and XP, fostering iterative and efficient delivery.
+Engineering Excellence: Strong advocate for code quality, automated testing (unit, component, integration, end-to-end, performance), and continuous improvement.
+Team Empowerment & Mentorship: Experienced in mentoring engineers, fostering growth, and enabling teams to achieve exceptional results.
+Problem-Solving & Strategic Thinking: Adept at understanding complex ecosystems, making informed recommendations, and setting the right technical direction.
+Collaborative Communication: Excellent communication skills with the ability to effectively convey technical concepts to diverse audiences and build strong working relationships.
+Employment Summary
+
+Staff Software Engineer | Collibra UK Ltd | Oct 2021 - Dec 2024
+
+Led and empowered a distributed team to design and implement scalable data processing applications, ensuring the delivery of high-performance, production-ready solutions that enhanced data governance capabilities.
+Spearheaded critical performance optimizations on core data governance applications, achieving a 5-fold improvement in efficiency for bulk operations by strategically leveraging multithreading and concurrency, significantly enhancing user experience.
+Championed a strategic technology shift by leading the successful migration of a legacy application from Postgres to Neo4j, resulting in a 10x performance increase and demonstrating the power of graph databases for efficient data management.
+Drove engineering efficiency and quality by automating over 40,000 GraphQL queries, significantly reducing manual testing efforts and ensuring robust, high-quality releases.
+Established a robust and reliable deployment pipeline on AWS, utilizing Kubernetes and Helm, and integrating continuous integration and continuous delivery (CI/CD) through Jenkins, ensuring seamless and consistent software delivery.
+Manager Technology | Publicis Sapient | Dec 2015 - Oct 2021
+
+Guided a major architectural transformation by leading the modernization of a monolithic open banking solution into a scalable microservices architecture, ensuring seamless integration with ForgeRock IAM for robust identity and access management.
+Directed and mentored a team of engineers in the design and implementation of scalable microservices for critical financial platforms, with a strong focus on embedding secure authentication and authorization mechanisms using ForgeRock.
+Architected and implemented a sophisticated security framework by integrating OIDC with ForgeRock IAM, including custom multi-factor authentication flows (card-based, app-based, SMS OTP) for both user-facing applications and secure API integrations.
+Led crucial performance enhancement initiatives for banking applications, achieving a significant throughput increase (from 80 to 431 transactions per second) through strategic application of multithreading, connection pooling, and circuit breaker patterns, ensuring transaction integrity within a secure environment.
+Pioneered the adoption of event-driven architecture by designing and implementing systems leveraging Kafka and Spark Streaming, ensuring secure and efficient data flow and processing for real-time applications.
+Established and enforced technical standards, including security protocols related to authentication and authorization via ForgeRock, and mentored the team on best practices, fostering a culture of security-conscious development.
+Significantly improved data processing efficiency by optimizing Spring Batch processes, reducing processing time for large datasets (20M+ entries) from 4 hours to just 20 minutes.
+Enhanced application monitoring capabilities by building centralized platforms utilizing Server-Sent Events for real-time health tracking, improving operational visibility.
+Successfully delivered enterprise-scale customer-facing applications using Agile methodologies (Kanban and Scrum), ensuring adherence to stringent security requirements and leveraging ForgeRock for authentication and authorization.
+Consultant | Deloitte Consulting India Pvt Ltd | July 2013 – Dec 2015
+
+Empowered team growth by conducting Java, domain knowledge, and project architecture training for over 30 team members, enhancing overall project delivery capabilities.
+Drove efficiency improvements by redesigning critical project modules, resulting in a 50% reduction in effort and significantly boosting team productivity.
+Provided leadership in agile delivery of customer-facing applications, ensuring collaborative and efficient project execution.
+Enhanced project outcomes through effective collaboration across cross-functional teams, delivering innovative and scalable solutions for enterprise clients.
+Associate - Projects | Cognizant Technology Solutions India Pvt Ltd | Sept 2011 to July 2013
+
+Led the end-to-end development of enterprise-level data-driven loan origination and servicing systems for a major financial organization.
+Improved development efficiency by automating static page creation using Backbone.js, resulting in significant time and cost savings.
+System Engineer | IBM India Pvt Ltd | Dec 2007 – Aug 2011
+
+Ensured positive user experiences by developing and maintaining robust customer-facing applications.
+Streamlined internal operations by automating processes for tracking call costs and shift management, improving efficiency for project managers.
+Contributed to team growth by mentoring junior developers and ensuring the delivery of reliable customer-facing applications.
+Certifications
+
+Cassandra certified developer
+SCJP 1.5
+SCWCD 1.5
+L0 Banking and Financial Services in CTS
+Certified ScrumMaster
+Education
+
+B.Tech in Information Technology (2003 - 2007) | Jalpaiguri Government Engineering College
