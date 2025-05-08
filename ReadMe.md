@@ -53,7 +53,7 @@ python -m src.generate_application_resources --url=https://jobs.ashbyhq.com/cari
 - Preview and export your resume & cover letter as a PDF.
 
 ## 🎯 Enhancement
-- Add crowler to look into different url
+- Add crawler to look into different url
 - Dashboard of url successfully generated resume and cover letter
 - Entries for unsuccessful
 - Support different style in resume
