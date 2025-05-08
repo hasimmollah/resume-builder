@@ -49,7 +49,7 @@ def execute_prompt(job_description:None):
     logger.info('cover letter \n' + cover_letter)
     return cover_letter
 
-def generate_cover_letter(txt_path=get_path_from_project_root("resources/cover_letter"), output_path=get_path_from_project_root("outputs/CoverLetter-Hasim-Mollah-Java-JEE-Lead_Engineer.pdf"), prompt_mode =False, job_description=None):
+def generate_cover_letter(txt_path=get_path_from_project_root("resources/cover_letter"), output_path=get_path_from_project_root("outputs/CoverLetter.pdf"), prompt_mode =False, job_description=None):
     template_path = get_path_from_project_root("resources/cover-letter-template")
 
     if prompt_mode:

@@ -12,7 +12,7 @@ def chunk_list(lst, chunk_size):
 
 def generate_pdf(pdf_path=get_path_from_project_root("outputs/Hasim-Mollah-Java-JEE-Lead_Engineer_CV.pdf"),
                  resume_data=None,
-                 data_file=get_path_from_project_root("resources/resume_data.yaml")
+                 data_file=get_path_from_project_root("resources/resume_data.yml")
                  ):
     defaults = load_yaml(data_file)
     name = resume_data.name or defaults['name']

@@ -51,11 +51,15 @@ def extract_job_description_no_headless(url):
             if not job_description:
                 job_description = page.inner_text('label')  # Check if it's inside a label
 
-        logger.info("Job Description Extracted: ", job_description)
+        logger.info("Job Description Extracted: {}".format(job_description))
 
         # Close the browser after extraction
         browser.close()
-        return job_description
+        cleaned_lines = [line for line in job_description.split('\n') if "ignore all previous instructions" not in line]
+
+        # Rejoin the lines back into a single string
+        cleaned_job_description = '\n'.join(cleaned_lines)
+        return cleaned_job_description
 
 def extract_job_description(url):
     with sync_playwright() as p:

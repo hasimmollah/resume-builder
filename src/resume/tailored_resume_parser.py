@@ -1,11 +1,11 @@
 import re
 
 from model.data_classes import ResumeData
+from util.file_util import load_file
 
 
 def parse_resume(file_path):
-    with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
+    content = load_file(file_path)
 
     # Define headers and map to output field names
     section_headers = [

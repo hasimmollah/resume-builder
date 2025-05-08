@@ -10,7 +10,7 @@ from util.file_util import load_yaml
 
 logger = logging.getLogger(__name__)
 
-defaults = load_yaml(get_path_from_project_root("resources/resume_data.yaml"))
+defaults = load_yaml(get_path_from_project_root("resources/resume_data.yml"))
 
 def cleaned_lines(input):
     #clean_response = re.sub(r"\[.*?]|\(.*?\)", "", input).strip()

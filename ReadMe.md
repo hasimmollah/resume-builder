@@ -1,56 +1,61 @@
 # Resume Builder – Tailored Job Description Generator
 
-A powerful, customizable resume builder designed to generate tailored job descriptions. This tool streamlines the resume creation process, helping users present their skills and experience in the most impactful way for specific job roles.
+Resume Builder is a powerful, customizable tool designed to generate tailored resumes and cover letters based on job descriptions. It can work directly from a job posting URL, a local job description file, or an existing tailored resume. This project is perfect for job seekers looking to stand out by aligning their application documents with specific job requirements.
 
 ## ✨ Features
 
-Tailored Resume for a Job Descriptions – Generate optimized tailored resume for a job descriptions 
+- Tailored Resume and Cover Letter Generation: Generate personalized resumes and cover letters based on job descriptions.
 
-Customizable Templates – Provide resume in a yml format.
+- Multiple Input Methods: Use a URL to fetch the job description or provide a local text file.
 
-Skill Matching – Highlight relevant skills based on job requirements.
+- PDF Generation: Convert the generated resumes and cover letters to polished, professional PDFs.
 
-PDF Export – Export polished resumes in PDF format.
+- Extensive Customization: Supports fine-tuning of prompts for summary, key strengths, responsibilities and cover letter in resources/instructions.yml
 
 
-🚀 Getting Started
+## 🚀 Getting Started
 
-Prerequisites
+### Prerequisites
 
 Ensure you have the following installed:
 
-Python3
+- Python
+- ollama 
 
 
-Installation
+### Installation
 
-Clone the repository:
+#### Run the model
+ollama run gemma3:1b
 
-git clone https://github.com/hasimmollah/resume-builder.git
+#### Clone the repository:
+
+git clone git@github.com:hasimmollah/resume-builder.git
 cd resume-builder
 
-Install dependencies:
+### Install dependencies:
 
-npm install
+pip install -r requirements.txt
 
-Run the development server:
+### Run the main app:
 
-npm run dev
+python -m src.generate_application_resources --url=https://jobs.ashbyhq.com/caribou/354a2cf7-640b-43a4-b6f6-3da7be834ca6 --output_path=c:\data --prompt_mode=False --job_description_path=c:\jd
 
-Open http://localhost:3000 in your browser.
 
-🛠️ Usage
 
-Create a new resume project.
+
+## 🛠️ Usage
 
 Add your personal information, work experience, education, and skills in yml format sample is under resources folder
 
-Provide the job description in the file under resources folder.
+Provide the job description in the file under resources folder or provide the url of the JD as an input to the program
 
-Preview and export your resume as a PDF.
+Preview and export your resume & cover letter as a PDF.
 
-📧 Contact
 
-For questions or support, please reach out to hasim.mollah@gmail.com.
+
+## 📧 Contact
+
+For questions or support, please reach out to hasim.mollah@gmail.com or LinkedIn: https://www.linkedin.com/in/hasim-abdul-halim-mollah-a9b54521/
 
 Happy Building! 🚀
