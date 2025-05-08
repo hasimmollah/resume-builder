@@ -31,6 +31,7 @@ ollama run gemma3:1b
 #### Clone the repository:
 
 git clone git@github.com:hasimmollah/resume-builder.git
+
 cd resume-builder
 
 ### Install dependencies:
