@@ -46,13 +46,17 @@ python -m src.generate_application_resources --url=https://jobs.ashbyhq.com/cari
 
 ## 🛠️ Usage
 
-Add your personal information, work experience, education, and skills in yml format sample is under resources folder
+- Add your personal information, work experience, education, and skills in yml format sample is under resources folder
 
-Provide the job description in the file under resources folder or provide the url of the JD as an input to the program
+- Provide the job description in the file under resources folder or provide the url of the JD as an input to the program
 
-Preview and export your resume & cover letter as a PDF.
+- Preview and export your resume & cover letter as a PDF.
 
-
+## 🎯 Enhancement
+- Add crowler to look into different url
+- Dashboard of url successfully generated resume and cover letter
+- Entries for unsuccessful
+- Support different style in resume
 
 ## 📧 Contact
 
