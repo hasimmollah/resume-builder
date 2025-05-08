@@ -1,7 +1,9 @@
 import re
 
+from model.data_classes import ResumeData
 
-def parse_resume(file_path='resume.txt'):
+
+def parse_resume(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
@@ -23,6 +25,9 @@ def parse_resume(file_path='resume.txt'):
         "name": full_name,
         "contact": contact_info
     }
+    resume_data = ResumeData()
+    setattr(resume_data, "name", full_name)
+    setattr(resume_data, "contact", contact_info)
 
     # Use regex to split based on section headers
     pattern = r"(?<=\n)(?P<header>{})(?=\n)".format("|".join(re.escape(h[0]) for h in section_headers))
@@ -39,10 +44,13 @@ def parse_resume(file_path='resume.txt'):
         if key == "key_strengths" or key == "certifications":
             # Split by lines and remove bullets or dashes
             parsed[key] = [line.strip("•-* ").strip() for line in text.splitlines() if line.strip()]
+            setattr(resume_data, key, [line.strip("•-* ").strip() for line in text.splitlines() if line.strip()])
+        elif key == "employment_history":
+            setattr(resume_data, 'company_data', parse_experience_blocks(text))
         else:
             parsed[key] = text
-
-    return parsed
+            setattr(resume_data, key, text)
+    return resume_data
 
 def parse_experience_blocks(text):
     lines = text.strip().splitlines()

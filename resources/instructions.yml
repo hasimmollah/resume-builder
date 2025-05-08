@@ -1,0 +1,78 @@
+instructions:
+  common:
+    - Highlight relevant experience and key strengths that match the JD.
+    - Emphasize leadership, cross-functional collaboration, and impact.
+    - DO NOT use placeholders like [Candidate Name], [Number], [Company], [Previous Company Name] , [Previous Role], [...] etc.
+    - DO NOT leave any text for the user to fill in.
+    - Make the output fully readable and professional as-is.
+    - your response should more crisp and concise More detailed, emphasizing strategic thinking, focusing strength required for the role in job description.
+    - DO NOT share what change you made and why you made
+    - DO NOT miss any skills, parse job description understand what's expected from this role for a candidate tailore your response accordingly.
+    - make it easier to a non technical person to understand clearly and shouldn't rejected by ATS
+    - your response should more crisp and concise More detailed, emphasizing strategic thinking, focusing strength required for the role in job description.
+    - DO NOT share your Considerations, what change you made and why you made
+    - keeping in mind Focus on Growth and Alignment, Highlighting Challenge and Impact , Emphasizing Learning and Long-Term Vision
+    - I want you to share the response complete, if you feel anything is missing I want you to fill that infromation from jd without needing me to update.
+    - I want to use your response as is.
+    - Focus on leadership, performance optimization, scalability, and impact.
+    - verify the result before returning if it's in correct format
+  professional_summary:
+    - I want you to rephrase above professional summary tailoring the job description above,
+    - Avoids Repetition, DO NOT use any subject(no "I", "he", "she", or "[Candidate Name]") in anywhere in your response, start your sentense with action verbs and achievements without using any subject in the sentense.
+    - BEGIN sentences with ACTION VERBS "Led", "Optimized", "Delivered", "Leveraged" etc.
+    - DO NOT use PRESENT TENSE in a sentence, always use PAST TENSE
+    - Output must be read like a narrative or bio, with MAX 200 words in response TAILORING the responsibility with Job Description
+    - AVOID filler phrases like "As a seasoned professional..." or "seasoned professional" or  "My career has been..."
+    - AVOID filler phases like "[Candidate Name] has consistently demonstrated" instead just use "Demonstrated"
+    - Output must be objective, and measurable, in <implied-first-person> without using any subject ('I', "I've", 'my', or 'me' or [Candidate Name] or [He/She] )
+
+
+  keystrengths:
+    - I want you to rephrase below key strengths tailoring the job description above,
+    - Avoids Repetition, DO NOT use any subject(no "I", "he", "she", or "[Candidate Name]") in anywhere in your response, start your sentense with action verbs and achievements without using any subject in the sentense.
+    - Begin sentences with action verbs "Led", "Optimized", "Delivered", etc.
+    - SHOULD NOT be less than 10 bullet points in response TAILORING the responsibility with Job Description
+    - AVOID filler phrases like "As a seasoned professional..." or "seasoned professional" or  "My career has been..."
+    - AVOID filler phases like "[Candidate Name] has consistently demonstrated" instead just use "Demonstrated"
+    - Output must be objective, and measurable, in <implied-first-person> without using any subject ('I', "I've", 'my', or 'me' or [Candidate Name] or [He/She] )
+    - Output must be read like a bullet points not a bio or narrative, number of bullet points should NOT MORE THAN 10, each point should be within 1-2 lines, dense with quantifiable achievements include each points from key strengths.
+
+  cover_letter:
+    - I want you to generate body of cover letter tailoring the job description above
+    - NO NEED TO GENERATE SALUTATION OR CANDIDATE NAME
+    - Begin sentences with action verbs "Led", "Optimized", "Delivered", etc.
+    - AVOID filler phrases like "As a seasoned professional..." or "seasoned professional" or  "My career has been..."
+    - AVOID filler phases like "[Candidate Name] has consistently demonstrated" instead just use "Demonstrated"
+    - Output must be objective, and measurable, in <implied-first-person> without using any subject ('I', "I've", 'my', or 'me' or [Candidate Name] or [He/She] )
+    - Output must be read like a bullet points not a bio or narrative, number of bullet points should NOT MORE THAN 10, each point should be within 1-2 lines, dense with quantifiable achievements include each points from key strengths.
+    - First paragraph why interested in the company
+    - Why interested in the role position
+    - what value I will bring to the role
+    - conclusion
+    - Targeted and Personalized
+    - Strong Opening Hook
+    - Showcase Relevant Skills and Experience
+    - Demonstrate Cultural Fit
+    - Strong Closing and Call to Action
+    - Overall Qualities
+    - tone should be a lead engineer not a junior ,
+    - must include skills which is mentioned in the JD, can avoid skills which is mentioned in my sample cover letter but not in JD
+    - you can add your imagination if you feel more suitable for this
+    - cover letter should be super compelling noone can avoid it
+    - please make sure you have added each and every tech technologies mentioned in the jd as below, I don't want you to miss these,
+    - please add in the whole context with appropriate tone that I am seasoned java jee professional wanted to apply for position,
+    - Cover letter should be ultimate polished way possible.
+    - keeping all below three in mind Focus on Growth and Alignment, Highlighting Challenge and Impact , Emphasizing Learning and Long-Term Vision
+
+
+  responsibilities:
+    - Begin sentences with action verbs "Led", "Optimized", "Delivered", etc.
+    - Avoids Repetition, DO NOT use any subject(no "I", "he", "she", or "[Candidate Name]") in anywhere in your response, start your sentense with action verbs and achievements without using any subject in the sentense.
+    - SHOULD be less than 10 bullet points in response TAILORING the responsibility with Job Description
+    - AVOID filler phrases like "As a seasoned professional..." or "seasoned professional" or  "My career has been..."
+    - AVOID filler phases like "[Candidate Name] has consistently demonstrated" instead just use "Demonstrated"
+    - Output must be objective, and measurable, in <implied-first-person> without using any subject ('I', "I've", 'my', or 'me' or [Candidate Name] or [He/She] )
+    - Rephrased achievements with quantifiable metrics, percentages, or scale (e.g., 5x, 40K+, 99.9%, etc.).
+    - Avoid vague phrases like “transformed systems” rephrase with supported by numbers percentage or scale data.
+    - DO NOT miss any achievement mentioned in the candidate's experience, rephrase this tailoring the job description, include skills, responsibilities, requirements mentioned in the job description
+
